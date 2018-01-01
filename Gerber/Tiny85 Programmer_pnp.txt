@@ -1,0 +1,52 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Tiny85 Programmer
+*Date=12:37:38
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;0805 [SMD];47.2327;-6.3313;180;Top;L1
+2;;SO;32.7891;-6.0265;90;Top;U1
+3;;;49.9341;-6.33131;0;Bottom;Via8
+4;22pF;0805 [SMD, multilayer];24.8807;-2.2165;180;Top;C5
+5;;;37.8945;-8.92211;0;Bottom;Via9
+6;;;55.7759;-3.23607;-90;Bottom;TXT1
+7;;;53.1009;-10.5247;-90;Bottom;TXT1
+8;;;61.0603;-6.32768;0;Bottom;Via19
+9;;;9.54809;-11.5129;0;Bottom;Via12
+10;;;10.9196;-5.25448;0;Bottom;Via1
+11;;usb-a-pcb;4.63569;-6.2965;-2.54444e-14;Top;X1
+12;10µF;0805 [SMD, multilayer];12.0971;-9.3793;-3.81667e-14;Top;C1
+13;1nF;0805 [SMD, multilayer];24.4415;-10.1413;-3.81667e-14;Top;C3
+14;;THT;17.4613;-3.1309;180;Bottom;XTAL2
+15;;;31.7985;-9.22691;0;Bottom;Via6
+16;;;15.1869;-9.37931;0;Bottom;Via15
+17;;;55.6052;-10.3978;-90;Bottom;TXT1
+18;;ptc-1206;10.9197;-2.7021;-90;Top;F
+19;;;31.7985;-7.85531;0;Bottom;Via5
+20;22pF;0805 [SMD, multilayer];24.8807;-4.1215;180;Top;C4
+21;;;53.1377;-3.17666;-90;Bottom;TXT1
+22;;;23.4165;-8.16011;0;Bottom;Via16
+23;;;50.0865;-3.74051;0;Bottom;Via7
+24;10;0805 [SMD];40.5271;-10.4461;180;Top;R1
+25;;;43.6857;-10.4461;0;Bottom;Via4
+26;;DIP (Dual Inline) [THT];76.1977;-6.3313;-90;Bottom;U2
+27;;THT;55.5221;-6.6869;90;Bottom;J1
+28;;;27.5313;-1.91171;0;Bottom;Via11
+29;;;11.0721;-8.00771;0;Bottom;Via2
+30;1k;0805 [SMD];42.5771;-6.3313;0;Top;R2
+31;;;33.6286;-2.05614;0;Bottom;Via14
+32;;;58.2317;-2.8786;-90;Bottom;TXT1
+33;;;58.1994;-10.504;-90;Bottom;TXT1
+34;1k;0805 [SMD];42.5771;-3.7405;0;Top;R3
+35;;;62.2715;-2.0671;0;Bottom;Via18
+36;0.47µF;0805 [SMD, multilayer];12.0283;-11.3605;180;Top;C2
+37;;0805 [SMD];47.2327;-3.7405;180;Top;L2
