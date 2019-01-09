@@ -4,6 +4,10 @@ An AT Tiny85 programmer with on-board USB connection and ZIF socket for easy con
 
 Uses CH340G chips for USB communication.
 
+![Top Rendering](images/render_top.png)
+
+
 ## Derivative
 
 This design is based on a design by Matthias Neeracher: https://github.com/microtherion/ChipHeadBang
+
